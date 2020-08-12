@@ -1,0 +1,15 @@
+@import '../../App.scss';
+
+.app-header{
+   margin-bottom: 100px;
+}
+
+.header-title{
+    font-size: 5rem;
+    color: $font_color;
+    font-family: "Sainte Colombe";
+    font-weight: 100;
+    letter-spacing: -2.08px;
+    line-height: 80px;
+    text-align: center;
+}
